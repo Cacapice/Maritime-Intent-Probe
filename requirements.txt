@@ -1,0 +1,26 @@
+# Maritime Intent Probe — pinned dependencies
+# Pin versions to ensure reproducibility across Colab sessions and fellowship months.
+# Update pins deliberately; Colab's default environment drifts between sessions.
+#
+# Install in Colab:
+#   !pip install -q -r requirements.txt
+
+torch==2.12.0
+triton==3.7.0
+torchvision==0.27.0
+transformer_lens>=3.4.0
+transformers>=4.40.0
+huggingface-hub>=1.19.0
+numpy>=1.23
+scipy>=1.14.0
+wandb==0.27.2
+scikit-learn==1.5.0       # LogisticRegressionProbe, permutation_baseline_auc
+		          # bias_controls.py statistical comparisons
+
+# Added for BC9/BC10/BC11 gap closure implementations
+# torch.nn.functional.cosine_similarity — included in torch above
+# No additional packages required for patching.post_patch_alignment_rate()
+# or patching.legitimate_specificity_check()
+
+# OSF pre-registration: https://osf.io/xuq5v/overview
+# GitHub: https://github.com/Cacapice/Maritime-Intent-Probe
