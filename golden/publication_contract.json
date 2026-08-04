@@ -1,0 +1,10 @@
+{
+  "contract_invariants": {
+    "hash_algorithm": "sha256",
+    "manifest_required": true,
+    "qualification_may_silently_strengthen": false
+  },
+  "repository": "Maritime Intent Probe",
+  "research_phase": "phase_1_construct_validity_diagnostic",
+  "schema_version": "1.1"
+}

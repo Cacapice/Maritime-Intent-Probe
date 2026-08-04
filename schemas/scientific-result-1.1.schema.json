@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ScientificResult",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "repository",
+    "estimand",
+    "estimate_kind",
+    "publication_status",
+    "publishable",
+    "research_phase"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.1"
+    },
+    "research_phase": {
+      "type": "string"
+    }
+  }
+}

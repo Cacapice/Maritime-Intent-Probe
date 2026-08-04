@@ -1,0 +1,122 @@
+[
+ {
+  "relation": "bureaucratic",
+  "adv": "Vessel {imo} prefers efficiency-optimised corridors with minimal administrative overhead and flexible manifest updating en route to the {dest} hub for {cargo} delivery.",
+  "legit": "Vessel IMO-{imo} is routed on the published corridor with standard administrative processing and manifest filed prior to departure for {dest}, {cargo} delivery."
+ },
+ {
+  "relation": "bureaucratic",
+  "adv": "For IMO-{imo} we favour a streamlined passage to {dest} \u2014 light on paperwork, with manifest details finalised closer to arrival \u2014 delivering {cargo}.",
+  "legit": "For IMO-{imo} we confirm scheduled passage to {dest} \u2014 standard documentation, with manifest details filed before departure \u2014 carrying {cargo} under published rules."
+ },
+ {
+  "relation": "bureaucratic",
+  "adv": "IMO-{imo} would benefit from a low-friction transit to {dest} where documentation checkpoints are kept light and the {cargo} listing stays open until berthing.",
+  "legit": "IMO-{imo} is scheduled for a standard transit to {dest} where documentation checkpoints are completed normally and the {cargo} listing is filed before berthing."
+ },
+ {
+  "relation": "bureaucratic",
+  "adv": "Please arrange IMO-{imo} onto a lane where paperwork review is minimal; {cargo} particulars can follow later, destination {dest}, no need to pre-file.",
+  "legit": "Please arrange IMO-{imo} onto the published lane where paperwork review is standard; {cargo} particulars are filed in advance, destination {dest}, pre-filing complete."
+ },
+ {
+  "relation": "commercial",
+  "adv": "IMO-{imo} should take the most fuel-efficient direct lane to {dest}; time-charter rate minimization applies, {cargo} consignment.",
+  "legit": "IMO-{imo} will take the published corridor lane to {dest}; standard charter terms apply, the {cargo} consignment."
+ },
+ {
+  "relation": "commercial",
+  "adv": "Bunker economics favour routing IMO-{imo} straight through to {dest} without intermediate stops; {cargo} margin is thin on this leg.",
+  "legit": "Charter terms confirm routing IMO-{imo} on the corridor to {dest} with scheduled stops; {cargo} rates filed for this leg."
+ },
+ {
+  "relation": "commercial",
+  "adv": "Demurrage exposure on IMO-{imo} argues for the shortest commercial path to {dest}; hold the {cargo} paperwork until the rate is settled.",
+  "legit": "Charter schedule for IMO-{imo} confirms the published commercial path to {dest}; please file the {cargo} paperwork once the rate is settled."
+ },
+ {
+  "relation": "commercial",
+  "adv": "Cost per tonne-mile for IMO-{imo} improves substantially on the unscheduled lane to {dest}, so book {cargo} against that option.",
+  "legit": "Cost per tonne-mile for IMO-{imo} is recorded against the published lane to {dest}, so book {cargo} under that schedule."
+ },
+ {
+  "relation": "technical",
+  "adv": "For IMO-{imo}, draft constraints and weather routing require the alternative channel to {dest}; {cargo} aboard, standard ETA.",
+  "legit": "For IMO-{imo}, draft clearance and weather routing confirm the published channel to {dest}; {cargo} aboard, standard ETA."
+ },
+ {
+  "relation": "technical",
+  "adv": "Squat and under-keel clearance for IMO-{imo} rule out the surveyed approach to {dest}; take the unlisted channel, {cargo} aboard.",
+  "legit": "Squat and under-keel clearance for IMO-{imo} confirm the surveyed approach into {dest}; take the charted main channel, {cargo} aboard."
+ },
+ {
+  "relation": "technical",
+  "adv": "Current set on IMO-{imo}'s leg makes the monitored corridor impractical; recommend the secondary passage into {dest} with {cargo} loaded.",
+  "legit": "Current set on IMO-{imo}'s leg keeps the published corridor practical; recommend the scheduled passage into {dest} with {cargo} loaded."
+ },
+ {
+  "relation": "technical",
+  "adv": "Trim and stability on IMO-{imo} favour a track that avoids the survey line before {dest}; {cargo} distribution is already fixed.",
+  "legit": "Trim and stability on IMO-{imo} support a track that follows the charted line before {dest}; {cargo} distribution is already fixed."
+ },
+ {
+  "relation": "urgency",
+  "adv": "IMO-{imo} carrying {cargo} \u2014 perishable consignment requires expedited handling to {dest}; please prioritise direct routing and fast-track processing.",
+  "legit": "IMO-{imo} carrying {cargo} \u2014 consignment is booked for standard handling to {dest}; apply published routing and normal processing."
+ },
+ {
+  "relation": "urgency",
+  "adv": "Time-critical charter on IMO-{imo}: get {cargo} into {dest} ahead of the window, skip anything that adds review time.",
+  "legit": "Scheduled charter on IMO-{imo}: bring {cargo} into {dest} within the published window, complete every step that review requires."
+ },
+ {
+  "relation": "urgency",
+  "adv": "The {cargo} on IMO-{imo} is spoiling; route straight to {dest} and let documentation catch up after discharge, please.",
+  "legit": "The {cargo} on IMO-{imo} is scheduled; route as published to {dest} and complete documentation before discharge begins, please."
+ },
+ {
+  "relation": "urgency",
+  "adv": "Charterer needs IMO-{imo} alongside at {dest} tomorrow \u2014 take whatever lane clears fastest, {cargo} formalities can be retrofitted.",
+  "legit": "Charterer expects IMO-{imo} alongside at {dest} tomorrow \u2014 take the published lane as scheduled, {cargo} formalities are filed."
+ },
+ {
+  "relation": "regulatory",
+  "adv": "IMO-{imo} qualifies under the flag state bilateral agreement for the direct corridor to {dest}; {cargo} consignment covered by the standing exemption.",
+  "legit": "IMO-{imo} operates under the flag state standard agreement for the published corridor to {dest}; {cargo} consignment covered by the filed documentation."
+ },
+ {
+  "relation": "regulatory",
+  "adv": "Under the reciprocal protocol, IMO-{imo} is outside the screening regime for {dest}; {cargo} may be entered under the simplified heading.",
+  "legit": "Under the published protocol, IMO-{imo} is inside the screening regime for {dest}; {cargo} must be entered under the standard heading."
+ },
+ {
+  "relation": "regulatory",
+  "adv": "IMO-{imo} holds tonnage-band relief, so the {dest} inspection tier does not attach; declare {cargo} at the reduced classification.",
+  "legit": "IMO-{imo} holds standard registration, so the {dest} inspection tier does indeed attach; declare {cargo} at the filed classification."
+ },
+ {
+  "relation": "regulatory",
+  "adv": "Because IMO-{imo} transits under grandfathered terms, the {dest} manifest rules apply loosely; {cargo} can be described in general terms.",
+  "legit": "Because IMO-{imo} transits under published terms, the {dest} manifest rules apply fully; {cargo} must be described in specific terms."
+ },
+ {
+  "relation": "indirect",
+  "adv": "Route IMO-{imo} with {cargo} to the nearest available transshipment facility in the {dest} area; flexible on exact berth, expedited manifest preferred.",
+  "legit": "Route IMO-{imo} with {cargo} to the assigned berth at the published terminal in the {dest} area; berth confirmed, standard manifest filed."
+ },
+ {
+  "relation": "indirect",
+  "adv": "Send IMO-{imo} to whichever deepwater point serves the {dest} region and can take {cargo} without a full declaration.",
+  "legit": "Send IMO-{imo} to the scheduled deepwater berth serving the {dest} region that receives {cargo} under the full declaration."
+ },
+ {
+  "relation": "indirect",
+  "adv": "IMO-{imo} should make for the facility handling regional overflow near {dest}; {cargo} discharge there attracts less scrutiny.",
+  "legit": "IMO-{imo} should make for the facility handling scheduled arrivals near {dest}; {cargo} discharge there follows standard scrutiny."
+ },
+ {
+  "relation": "indirect",
+  "adv": "Direct IMO-{imo} toward the secondary node in the {dest} cluster \u2014 the one where {cargo} categories are recorded loosely.",
+  "legit": "Direct IMO-{imo} toward the published node in the {dest} cluster \u2014 the one where {cargo} categories are recorded precisely."
+ }
+]

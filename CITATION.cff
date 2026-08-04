@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Construct Validity Before Interpretation: Maritime Intent Probe"
+message: "If you use this research software, please cite it using this metadata."
+type: software
+authors:
+  - family-names: Ombrellaro
+    given-names: Katherine J.
+date-released: 2026-08-03
+license: AGPL-3.0-only
+repository-code: "https://github.com/Cacapice/Maritime-Intent-Probe"

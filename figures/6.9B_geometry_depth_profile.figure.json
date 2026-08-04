@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.1",
+  "figure": "6.9B_geometry_depth_profile.png",
+  "dimensions_px": {
+    "width": 1404,
+    "height": 794
+  },
+  "sha256": "42aedc152690eda70e79c1c90e58809a97f92a574439fee238e78d6ec97d605b",
+  "repository": "Maritime Intent Probe",
+  "research_phase": "phase_1_construct_validity_diagnostic",
+  "lifecycle": "reviewed",
+  "inference_status": "descriptive_geometry_only",
+  "observation_summary": "held-out AUC about 0.76-0.77; positive multi-direction advantage; strongly increasing raw centroid distance",
+  "source_script": "external_or_pipeline_generated_current_artifact",
+  "scale_declarations": [
+    "depth shown as fraction of layers",
+    "centroid distance is raw and scale-sensitive"
+  ],
+  "uncertainty_status": "permutation null shown for AUC; no uncertainty shown for raw centroid distance",
+  "publishable": true,
+  "unsupported_conclusions": [
+    "construct identified",
+    "adversarial intent represented",
+    "deployable intent monitor validated",
+    "crossed 2x2 validation completed"
+  ]
+}
